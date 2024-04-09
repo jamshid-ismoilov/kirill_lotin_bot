@@ -9,5 +9,5 @@ import (
 func main() {
 	fmt.Println("Application started")
 	// starting bot
-	handler.RunTgBot("6210419664:AAGZL81Ma-qc83gkGZdP9cZKN0hBZAomR_k")
+	handler.RunTgBot("6210419664:AAGZL81MZdP9cZKN0hBZAomR_k")
 }
